@@ -1,0 +1,2 @@
+This is written using write(w) mode.
+This is written using append(a) mode.
