@@ -1,0 +1,10 @@
+# Ignore compiled files
+*.exe
+*.out
+*.o
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
